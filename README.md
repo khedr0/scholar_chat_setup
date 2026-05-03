@@ -1,11 +1,12 @@
 # scholar_chat_setup
 ## Screenshots
-
-![1](screenshots%20(1).jpg)
-![2](screenshots%20(2).jpg)
-![1](screenshots%20(3).jpg)
-![2](screenshots%20(4).jpg)
-![1](screenshots%20(5).jpg)
+<p align="center">
+  <img src="screenshots%20(1).jpg" width="250"/>
+  <img src="screenshots%20(2).jpg" width="250"/>
+  <img src="screenshots%20(3).jpg" width="250"/>
+  <img src="screenshots%20(4).jpg" width="250"/>
+  <img src="screenshots%20(5).jpg" width="250"/>
+</p>
 A new Flutter project.
 
 ## Getting Started
