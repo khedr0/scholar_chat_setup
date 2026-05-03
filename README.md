@@ -1,5 +1,11 @@
 # scholar_chat_setup
+## Screenshots
 
+![1](screenshots%20(1).jpg)
+![2](screenshots%20(2).jpg)
+![1](screenshots%20(3).jpg)
+![2](screenshots%20(4).jpg)
+![1](screenshots%20(5).jpg)
 A new Flutter project.
 
 ## Getting Started
