@@ -2,7 +2,6 @@
 ## Screenshots
 <p align="center">
   <img src="screenshots%20(1).jpg" width="250"/>
-  <img src="screenshots%20(2).jpg" width="250"/>
   <img src="screenshots%20(3).jpg" width="250"/>
   <img src="screenshots%20(4).jpg" width="250"/>
   <img src="screenshots%20(5).jpg" width="250"/>
